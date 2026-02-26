@@ -20,12 +20,14 @@ h1 {
   border-bottom: 1px solid #333 !important;
   padding-bottom: 15px !important;
   margin-bottom: 30px !important;
+  color: #ffd700 !important; 
 }
 
 h2 {
   font-size: 28px !important;
   margin-top: 40px !important;
   margin-bottom: 20px !important;
+  color: #f5c542 !important;
 }
 
 h3 {
