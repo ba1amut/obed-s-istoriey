@@ -1,1 +1,14 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/dark-theme.css">
+
+<meta charset="utf-8">
+<title>{{ page.title }} | {{ site.title }}</title>
+
+<!-- Open Graph для Telegram и соцсетей -->
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:image" content="{{ page.image | absolute_url }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="article">
+
+<!-- Для Twitter -->
+<meta name="twitter:card" content="summary_large_image">
