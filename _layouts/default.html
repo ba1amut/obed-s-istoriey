@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    
+    <!-- Open Graph для Telegram и соцсетей -->
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:image" content="{{ page.image | default: site.image | default: '/images/default-preview.jpg' | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="article">
+    
+    <!-- Для Twitter (тоже работает) -->
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!-- Подключаем стили -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    {{ content }}
+</body>
+</html>
