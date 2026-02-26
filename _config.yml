@@ -1,6 +1,6 @@
 title: Обед с историей
 description: Исторические рассказы от Пуатье до Петра
-url: "https://ba1amut.github.io/obed-s-istoriey"
+url: "https://ba1amut.github.io"
 baseurl: "/obed-s-istoriey"
 markdown: kramdown
 theme: minima

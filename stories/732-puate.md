@@ -3,11 +3,6 @@ title: 732 год. Битва при Пуатье
 description: Карл Мартелл, арабы, Хазарский каганат (путь рабов и мехов), Зарождение пути "из варяг в греки".
 image:
 ---
-<style>
-  body { font-size: 18px; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
-  h1 { font-size: 32px; }
-  @media (max-width: 600px) { body { font-size: 16px; } }
-</style>
 #### Часть первая. Европа. Меч и Крест
 
 **Октябрь 732 года. Аквитания, окрестности Тура.**
