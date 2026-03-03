@@ -3,6 +3,6 @@
 ## Последние рассказы
 
 - [732 год: Битва при Пуатье](/obed-s-istoriey/stories/732-puate)
-- [800 год: Карл Великий](/obed-s-istoriey/stories/800-aahen)
-- [941 год: Походы Святослава](/obed-s-istoriey/stories/941-Svyatoslav)
-- [957 Ольга](/obed-s-istoriey/stories/olga)
+- [800 год: Карл Великий](/obed-s-istoriey/рассказы/09%20век/800%20карл%20великий)
+- [941 год: Походы Святослава](/obed-s-istoriey/рассказы/10%20век/941%20святослав)
+- [907 год: Олег в Царьграде](/obed-s-istoriey/stories/907-oleg)
