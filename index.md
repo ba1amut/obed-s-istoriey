@@ -7,4 +7,5 @@
 -  [907 год: Олег в Царьграде](/obed-s-istoriey/stories/907-oleg)
 - [957 год: Ольга](/obed-s-istoriey/stories/olga)
 - [941 год: Походы Святослава](/obed-s-istoriey/stories/941-Svyatoslav)
+- [988 год: Выбор веры Владимиром](/obed-s-istoriey/stories/988-Vladimir)
 
