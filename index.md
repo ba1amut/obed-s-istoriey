@@ -9,4 +9,4 @@
 - [941 год: Походы Святослава](/obed-s-istoriey/stories/941-Svyatoslav)
 - [988 год: Выбор веры Владимиром](/obed-s-istoriey/stories/988-Vladimir)
 - [1054 год: Раскол веры](/obed-s-istoriey/stories/1054-Yaroslav)
-
+- [1393-1398: Тамерлан](/obed-s-istoriey/stories/1393-1398)
