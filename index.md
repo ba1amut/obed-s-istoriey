@@ -11,5 +11,6 @@
 - [1054 год: Раскол веры](/obed-s-istoriey/stories/1054-Yaroslav)
 - [1096-1099: Первый крестовый поход и Любеч](/obed-s-istoriey/stories/1096)
 - [1110-1115: Мономах против половцев](/obed-s-istoriey/stories/1110)
+- [1145-1150: Рождение Москвы](/obed-s-istoriey/stories/1145)
 - [1393-1398: Тамерлан](/obed-s-istoriey/stories/1393-1398)
 
